@@ -26,7 +26,7 @@ Este documento analiza el proyecto de comparación de algoritmos de multiplicaci
 * *Algoritmo Transpuesta** mm_transpuesta.c
 * *Fichero** lanza.pl:
 * ****
-* **CSV** El repositorio también incluye un archivo CSV que contiene los datos de los tiempos de ejecución tomados para resolver la multiplicación de matrices utilizando diferentes números de hilos y tamaños. Este archivo presenta dos tablas distintas: una para el algoritmo clásico y otra para el algoritmo transpuesto. Los datos permiten comparar cómo varía el rendimiento en función del número de hilos y el tipo de algoritmo utilizado, proporcionando una base sólida para el análisis y la evaluación del rendimiento de cada enfoque.
+* **CSV:** El repositorio también incluye un archivo CSV que contiene los datos de los tiempos de ejecución tomados para resolver la multiplicación de matrices utilizando diferentes números de hilos y tamaños. Este archivo presenta dos tablas distintas: una para el algoritmo clásico y otra para el algoritmo transpuesto. Los datos permiten comparar cómo varía el rendimiento en función del número de hilos y el tipo de algoritmo utilizado, proporcionando una base sólida para el análisis y la evaluación del rendimiento de cada enfoque.
 
 
 
