@@ -16,7 +16,7 @@ El contenido del repositorio incluye:
 
 * ****
 * **Documentación:**
-* * https://drive.google.com/file/d/1inFbESozR_S7ozrzpgJc788jMnt1NLnQ/view?usp=sharing
+* * https://drive.google.com/file/d/1EHVMheX40PQxcBD07TU-k-K_nUfkjfun/view?usp=sharing
   * Este documento analiza el proyecto de comparación de algoritmos de multiplicación de matrices (MM) en C, abordando distintos paradigmas de programación y optimización. Comienza con el propósito del código y el contexto de los sistemas operativos, seguido de la comparativa de sistemas de cómputo y la evaluación de los algoritmos MM, desde la inicialización de variables hasta la paralelización con hilos. Se detallan los cambios realizados, el uso de un fichero Perl para pruebas automatizadas, la modularización del código, y la metodología de experimentación y análisis de datos. Concluye con un resumen de los hallazgos y referencias, proporcionando una guía para la replicación y mejora del proyecto
 * ****
 
